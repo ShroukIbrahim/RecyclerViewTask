@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marg">12dp</dimen>
+    <dimen name="marg_l">14dp</dimen>
+    <dimen name="marg_xl">16dp</dimen>
+    <dimen name="marg_xx">18dp</dimen>
+    <dimen name="padding">4dp</dimen>
+
+    <dimen name="dim_10x">100dp</dimen>
+    <dimen name="dim_11x">110dp</dimen>
+    <dimen name="dim_12x">120dp</dimen>
+    <dimen name="dim_13x">130dp</dimen>
+
+    <dimen name="dim_txt">30sp</dimen>
+    <dimen name="dim_txt1">20sp</dimen>
+</resources>
